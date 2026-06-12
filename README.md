@@ -1,7 +1,4 @@
 # SOC-Homelab
-SOC Homelab Projects using Wazuh, Sysmon, Windows 11, Kali Linux and MITRE ATT&amp;CK
-
-
 This repository contains my cybersecurity homelab projects focused on security monitoring, threat hunting, and incident investigation using Wazuh, Sysmon, Windows 11, and Kali Linux.
 
 ## Lab Environment
