@@ -60,3 +60,38 @@ The detection pipeline from Windows endpoint → Sysmon → Wazuh was successful
 ## Conclusion
 
 This project successfully demonstrated the detection and investigation of Windows reconnaissance activities using Sysmon and Wazuh.
+
+## Evidence
+
+### net user Command
+
+![net user command](screenshots/net-user-command.png)
+
+### net user Alert
+
+![net user alert](screenshots/net-user-alert.png)
+
+### net localgroup administrators Command
+
+![net localgroup administrators command](screenshots/net-local-administrators-command.png)
+
+### net localgroup administrators Alert
+
+![net localgroup administrators alert](screenshots/net-local-administrator-alert.png)
+
+### net group Command
+
+![net group command](screenshots/net-group-command.png)
+
+### net group Alert
+
+![net group alert](screenshots/net-group-alert.png)
+
+### net accounts Command
+
+![net accounts command](screenshots/net-account-command.png)
+
+### net accounts Alert
+
+![net accounts alert](screenshots/net-account-alert.png)
+
